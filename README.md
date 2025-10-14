@@ -1,4 +1,4 @@
-![https://www.shutterstock.com/image-vector/abstract-digital-circuit-background-computer-motherboard-2533178113)
+
 <h1 align="center">Hi 👋, I'm Rajat Singh</h1>
 <h3 align="center">A passionate MERN Stack developer from India.</h3>
  <img align="right" alt="coding" width ="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21hZW80cXV1eHg1MnR4b2t2ajNmeGFhNGoxNTVlMjc2YnZweWcwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"> 
